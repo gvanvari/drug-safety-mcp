@@ -6,13 +6,13 @@
 
 ## 📸 Screenshots
 
-<!-- Add screenshots here -->
+### Gradio UI
 
-```
-[Web UI Screenshot]
-[Console UI Screenshot]
-[MCP Tools in Action]
-```
+![Landing](./images/ask.png)
+
+### Recall
+
+![Recall](./images/recall.png)
 
 ---
 
@@ -63,7 +63,13 @@
 
 ## 🎭 Example Usage
 
-### In Claude Desktop (MCP)
+### Web UI
+
+```bash
+python run_web_ui.py
+# Open http://localhost:7860
+# Ask: "Tell me about Metformin's safety"
+```
 
 ### In Claude Desktop (MCP)
 
@@ -75,14 +81,6 @@
 "Compare Aspirin, Ibuprofen, and Acetaminophen"
 → Calls compare_drug_safety([...])
 → Returns comparison table with AI recommendation
-```
-
-### Web UI
-
-```bash
-python run_web_ui.py
-# Open http://localhost:7860
-# Ask: "Tell me about Metformin's safety"
 ```
 
 ### Console CLI
