@@ -1,0 +1,109 @@
+{
+  "drugs": [
+    {
+      "id": 1,
+      "name": "Ibuprofen",
+      "category": "NSAID",
+      "common_uses": ["Pain relief", "Fever reduction", "Anti-inflammatory"],
+      "fda_generic_name": "IBUPROFEN"
+    },
+    {
+      "id": 2,
+      "name": "Aspirin",
+      "category": "NSAID",
+      "common_uses": ["Pain relief", "Heart health", "Anti-inflammatory"],
+      "fda_generic_name": "ASPIRIN"
+    },
+    {
+      "id": 3,
+      "name": "Acetaminophen",
+      "category": "Analgesic",
+      "common_uses": ["Pain relief", "Fever reduction"],
+      "fda_generic_name": "ACETAMINOPHEN"
+    },
+    {
+      "id": 4,
+      "name": "Naproxen",
+      "category": "NSAID",
+      "common_uses": ["Pain relief", "Anti-inflammatory"],
+      "fda_generic_name": "NAPROXEN"
+    },
+    {
+      "id": 5,
+      "name": "Amoxicillin",
+      "category": "Antibiotic",
+      "common_uses": ["Bacterial infection treatment"],
+      "fda_generic_name": "AMOXICILLIN"
+    },
+    {
+      "id": 6,
+      "name": "Omeprazole",
+      "category": "Proton Pump Inhibitor",
+      "common_uses": ["Acid reflux", "GERD treatment"],
+      "fda_generic_name": "OMEPRAZOLE"
+    },
+    {
+      "id": 7,
+      "name": "Lisinopril",
+      "category": "ACE Inhibitor",
+      "common_uses": ["Blood pressure control", "Heart failure"],
+      "fda_generic_name": "LISINOPRIL"
+    },
+    {
+      "id": 8,
+      "name": "Atorvastatin",
+      "category": "Statin",
+      "common_uses": ["Cholesterol management"],
+      "fda_generic_name": "ATORVASTATIN"
+    },
+    {
+      "id": 9,
+      "name": "Metformin",
+      "category": "Antidiabetic",
+      "common_uses": ["Type 2 diabetes management"],
+      "fda_generic_name": "METFORMIN"
+    },
+    {
+      "id": 10,
+      "name": "Sertraline",
+      "category": "SSRI",
+      "common_uses": ["Depression", "Anxiety", "OCD treatment"],
+      "fda_generic_name": "SERTRALINE"
+    },
+    {
+      "id": 11,
+      "name": "Loratadine",
+      "category": "Antihistamine",
+      "common_uses": ["Allergy relief"],
+      "fda_generic_name": "LORATADINE"
+    },
+    {
+      "id": 12,
+      "name": "Cetirizine",
+      "category": "Antihistamine",
+      "common_uses": ["Allergy relief"],
+      "fda_generic_name": "CETIRIZINE"
+    },
+    {
+      "id": 13,
+      "name": "Diphenhydramine",
+      "category": "Antihistamine",
+      "common_uses": ["Allergy relief", "Sleep aid"],
+      "fda_generic_name": "DIPHENHYDRAMINE"
+    },
+    {
+      "id": 14,
+      "name": "Albuterol",
+      "category": "Bronchodilator",
+      "common_uses": ["Asthma relief"],
+      "fda_generic_name": "ALBUTEROL"
+    },
+    {
+      "id": 15,
+      "name": "Fluticasone",
+      "category": "Corticosteroid",
+      "common_uses": ["Asthma control", "Nasal allergies"],
+      "fda_generic_name": "FLUTICASONE"
+    }
+  ]
+}
